@@ -80,7 +80,6 @@ Ini akan menjalankan:
 
 * Autentikasi fallback: login manual dengan email google
 * REST API publik untuk integrasi eksternal
-* Fitur komentar atau balasan terhadap menfess
 
 ---
 
